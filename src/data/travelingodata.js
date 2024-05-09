@@ -69,14 +69,14 @@ export const memory = {
 
 export const placesAPI = [
   { "placeImg": place1, "location": "Jaipur", "distance": "3.0 hour dirve" },
-  { "placeImg": place2, "location": "Paris", "distance": "2.5 hour dirve" },
-  { "placeImg": place3, "location": "Dubai", "distance": "4.7 hour drive" },
+  { "placeImg": place2, "location": "Delhi", "distance": "2.5 hour dirve" },
+  { "placeImg": place3, "location": "Agra", "distance": "4.7 hour drive" },
   { "placeImg": place4, "location": "Shenzen", "distance": "4 hour drive" },
   { "placeImg": place5, "location": "Washington DC", "distance": "4.9 hour drive" },
   { "placeImg": place6, "location": "New York", "distance": "4.5 hour drive" },
-  { "placeImg": place7, "location": "Amesterdam", "distance": "5.5 hour drive" },
+  { "placeImg": place7, "location": "Mumbai", "distance": "5.5 hour drive" },
   { "placeImg": place8, "location": "Mumbai", "distance": "5.1 hour drive" },
-  { "placeImg": place9, "location": "Canberra", "distance": "5.1 hour drive" },
+  { "placeImg": place9, "location": "Kolkata", "distance": "5.1 hour drive" },
   { "placeImg": place10, "location": "Berlin", "distance": "5.1 hour drive" },
 ];
 
