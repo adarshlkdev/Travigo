@@ -10,11 +10,10 @@ ReactJS Basic landing for tour & travel agency integrated with framer motion ani
 
 **Deployed On:**
 
-<!-- ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)-->
+ ![netlify](https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=netlify&logoColor=black)
 
 ## Sneak  Peek of Home Page 🙈 :
-<!-- ![screencapture-resumegenx-netlify-app-2022-01-18-16_24_49](https://user-images.githubusercontent.com/64949957/159115311-42275489-8fbe-4d80-9f7c-4d308d9287ce.png) -->
-<!-- ![smartmockups_kyk0u3hp](https://user-images.githubusercontent.com/64949957/159115313-ae8bf72c-2a79-425d-8520-32b6ba3e0fcf.jpg) -->
+![Screenshot 2024-05-09 235440](https://github.com/adarshlkdev/Travigo/assets/129508819/71adb4eb-4dfa-42b6-b224-5a123b905d00)
 
 
 <h2>📬 Contact</h2>
